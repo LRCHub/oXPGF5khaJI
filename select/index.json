@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ラプンツェル (Rapunzel) - COVER by くろくも☁︎ (kurokumo)",
+  "base_artist": "くろくも",
+  "createdAt": "2025-12-29T16:02:55.793903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラプンツェル",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/01_ラプンツェル_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラプンツェル",
+      "artist": "冨岡愛",
+      "has_synced": true,
+      "path": "select/02_ラプンツェル_冨岡愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラプンツェル",
+      "artist": "RYTHEM",
+      "has_synced": false,
+      "path": "select/03_ラプンツェル_RYTHEM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラプンツェル",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/04_ラプンツェル_ナブナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rapunzel",
+      "artist": "くろくも",
+      "has_synced": false,
+      "path": "select/pl_01_Rapunzel_くろくも.txt"
+    }
+  ]
+}
